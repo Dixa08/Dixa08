@@ -1,14 +1,14 @@
 # Hi 👋 I'm Dixa
 
-🎓 **B.Tech CSE (AI & ML) Student**  
+🎓 B.Tech CSE (AI & ML) Student  
 📍 Graphic Era Hill University, Dehradun  
 
 ---
 
 ## 🚀 About Me
-- Passionate about **Artificial Intelligence and Machine Learning**
-- Interested in **Computer Vision and Deep Learning**
-- Building **real-world AI applications using Python**
+- Passionate about Artificial Intelligence and Machine Learning
+- Interested in Computer Vision and Deep Learning
+- Building real-world AI applications using Python
 
 ---
 
@@ -22,10 +22,15 @@
 
 ---
 
+## 🧠 Coding Practice
+💻 LeetCode: https://leetcode.com/u/dixa08ID/
+
+---
+
 ## 📌 Featured Projects
-🔹 **Fatigue Detection System** – Detects drowsiness using OpenCV and MediaPipe  
-🔹 **Gesture Controlled Greeting System** – Hand gesture recognition with MediaPipe  
-🔹 **Device Fault Detection ML Pipeline** – Machine learning model for device fault prediction
+🔹 Fatigue Detection System – Detects drowsiness using OpenCV and MediaPipe  
+🔹 Gesture Controlled Greeting System – Hand gesture recognition with MediaPipe  
+🔹 Device Fault Detection ML Pipeline – Machine learning model for device fault prediction
 
 ---
 
