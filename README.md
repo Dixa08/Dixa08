@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Dixa
 
-<!--
-**Dixa08/Dixa08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student  
+📍 Graphic Era Hill University, Dehradun  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Passionate about Artificial Intelligence and Machine Learning
+- Interested in Computer Vision and Deep Learning
+- Building real-world AI applications using Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- C/C++
+- Python
+- Machine Learning
+- Deep Learning
+- OpenCV
+- Data Structures & Algorithms
+
+## 📌 Featured Projects
+🔹 Fatigue Detection System  
+🔹 Gesture Controlled Greeting System  
+🔹 Device Fault Detection ML Pipeline  
+
+## 🌐 Connect With Me
+- Portfolio: https://dixa08.github.io/portfolio  
+- Kaggle: https://www.kaggle.com/missdixa  
+- LinkedIn: https://www.linkedin.com/in/dixa
