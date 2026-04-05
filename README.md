@@ -23,7 +23,6 @@
 ---
 
 ## 🧠 Coding Practice
-//💻 LeetCode: https://///leetcode.com/u/da08ID/
 
 ---
 
