@@ -30,6 +30,7 @@ Leetcode:https://leetcode.com/u/dixa08ID/
 🔹 Fatigue Detection System – Detects drowsiness using OpenCV and MediaPipe  
 🔹 Gesture Controlled Greeting System – Hand gesture recognition with MediaPipe  
 🔹 Device Fault Detection ML Pipeline – Machine learning model for device fault prediction
+🔹 ChromaAid – AI-powered assistive system designed during a hackathon to help users with visual/color-related challenges using real-time detection
 
 ---
 
