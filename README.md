@@ -23,8 +23,8 @@
 ---
 
 ## 🧠 Coding Practice
-
 ---
+Leetcode:https://leetcode.com/u/dixa08ID/
 
 ## 📌 Featured Projects
 🔹 Fatigue Detection System – Detects drowsiness using OpenCV and MediaPipe  
