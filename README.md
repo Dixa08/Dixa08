@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 Coding Practice
+## 🧠 Coding Practices
 ---
 Leetcode:https://leetcode.com/u/dixa08ID/
 
