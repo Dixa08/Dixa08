@@ -13,6 +13,17 @@
 </p>
 
 <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020024,50:064B80,100:00D4FF&text=BUILDING%20INTELLIGENCE&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=AI%20%7C%20Research%20%7C%20Robotics%20%7C%20Innovation&descAlignY=60&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=700&lines=Exploring+the+Future+of+Artificial+Intelligence;Engineering+Intelligent+Systems;Researching+Beyond+the+Possible;Turning+Ideas+Into+Impact" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dixa08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
