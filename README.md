@@ -170,7 +170,7 @@ My research goal is to identify meaningful gaps in existing literature and devel
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dix">
+  <a href="https://www.linkedin.com/in/dixa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Dixa08">
