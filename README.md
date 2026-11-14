@@ -23,9 +23,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=700&lines=Exploring+the+Future+of+Artificial+Intelligence;Engineering+Intelligent+Systems;Researching+Beyond+the+Possible;Turning+Ideas+Into+Impact" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dixa08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
