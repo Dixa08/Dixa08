@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dixa Rawat
+# 👋 Hi, I'm Dixa
 
 ### AI/ML Engineer in Progress | Research Enthusiast | Open-Source Contributor
 
