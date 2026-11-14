@@ -136,17 +136,20 @@ My research goal is to identify meaningful gaps in existing literature and devel
 - 💻 **GirlScript Summer of Code 2026** – Open-source contributor.
 
 ---
+s
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dixa08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dixa08&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dixa08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dixa08&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dixa08&theme=tokyonight&hide_border=true" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=Dixa08&theme=tokyonight&hide_border=true" />
 </p>
+
+
 
 ---
 
