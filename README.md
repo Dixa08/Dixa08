@@ -94,7 +94,7 @@ I focus on developing projects that combine practical engineering, AI capabiliti
 
 | Project | Description | Technology / Domain |
 |---|---|---|
-| **[CalorieAI](https://github.com/Dixa08/CalorieAI)** | AI-powered food recognition and nutritional analysis with personalized health insights. | Python, TensorFlow, MobileNetV2, CNN, Streamlit |
+| **[Dietary-Calories-Aanlysis](https://github.com/Dixa08/Dietary-Calories-Aanlysis-)** | AI-powered food recognition and nutritional analysis with personalized health insights. | Python, TensorFlow, MobileNetV2, CNN, Streamlit |
 | **[Chroma-Aid](https://github.com/Dixa08/Chroma-Aid)** | Assistive system for color-vision challenges using visual tests, camera-based detection and accessibility features. | React, Vite, Tailwind CSS, Computer Vision |
 | **OceanTrace** | SAR-based oil spill detection concept with AIS vessel correlation for maritime monitoring. | AI, Remote Sensing, SAR, React, TypeScript |
 | **Bio-GraphRAG** | Biomedical knowledge retrieval using graph-based RAG, Neo4j and locally hosted language models. | Python, LLMs, RAG, Neo4j, Llama 3 |
